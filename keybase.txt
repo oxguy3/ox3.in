@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/oxguy3
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://ox3.in
+  * I am oxguy3 (https://keybase.io/oxguy3) on keybase.
+  * I have a public key with fingerprint 754F FF90 7E28 2085 32E5  BE86 D902 728B 9E15 BA71
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01013cea685f6beca5aef8f5ebf4dedf54ce8bcbcfb4c8b516100c081df6a89c42770a",
+            "fingerprint": "754fff907e28208532e5be86d902728b9e15ba71",
+            "host": "keybase.io",
+            "key_id": "d902728b9e15ba71",
+            "kid": "01013cea685f6beca5aef8f5ebf4dedf54ce8bcbcfb4c8b516100c081df6a89c42770a",
+            "uid": "5e6e36fa4a7c736330b336d928e73d19",
+            "username": "oxguy3"
+        },
+        "service": {
+            "hostname": "ox3.in",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1451373604,
+    "expire_in": 157680000,
+    "prev": "00c5edbfc21a114accb3d541b3d79c307f0decd0078ea2e579a7a7ffef20f71c",
+    "seqno": 6,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.49
+Comment: https://keybase.io/crypto
+
+yMIiAnicrVJbSFRBGN7tsrZGKVp0kYwOCUJiM+c2Z7eHyiBfDKHsIgjrnDkz69Ht
+nO3scVPMDMt8qJQQKii6WBRo0YNYgSUmhWFk0aOZYGsFIaV2eesyR6qnHpuHGeaf
+7/vm+7+ZR0vm+9L9s1PlsURstNz/9GFbrW9Ps7y+QdBto14INwg1dG6hMYMm3EiN
+aQhhAUAAJUKxqilM1SnBCqZMYwrVmWxQgykyoZpOdMJ0mWi6AlUIAAEaNJiKtRCR
+RYQAFgoEZlpR6sQd03K5LFJkxlgIICpqItAUSaSKTjXVCAERiZoeolDRMYKcWGUn
+PAY3p+MELTRtXuObyJy9f+D/s+/aOTmFqlRSGZYxIkhSJQnoksTdihpFkgFDHjBB
+HQvvpxxt10Vr6yWhsUDgtaRJqBer18ffc6nQtDgn7tiuTewYr1W5bjzsUdz6uIc5
+SPXIb3ZENy2Dx8cJSeokTNsSwpAjiWt6clBWoMRNAblAoHVx06ER00MoSNUAH941
+NOllAohCDZ0REWIIZUyILhmKDPmMQkQCiAGDEgMApFHMHwSFMMKIMcpEwBAkgtfP
+AcsWwiq3iaNcMmFGLezWOlRoHByoWODzp/sCC+d538qXHsz889ked6b9LK2sK+ex
+dLUXDU37u9f2Zk+wjGclh0ry+sbe5+xsPR8/0967Mvv4kvOL0mffLI9PHu0eWHb4
+YNbiomKcLLkzMfg28G3bt/Fzuz7vPFXZtO+Jv+Tsx4EtvSN7E/nr+mcufW1dXZZ2
+ArKO73tvTd17tmPDiuv2WN5M88MXtwMj5f1NpWJGqzKyateFttHgtSup8NWWkdKZ
+A8dS4t3+mvGWYN5LEut+sPtUb2rpmun2H81rA33fcz5UbC9uyng92X1jYs3F3CM9
+pbmb3c/VPc7z04EzU+LwpqebgjQnL5V9a/PsxvwvvtNFrS2+m5kny4aPXL6fkdUx
++nVr2rtPQ6+6jM78C9U5vwBDRkGH
+=7xhh
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/oxguy3
+
+==================================================================
