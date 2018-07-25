@@ -13,6 +13,7 @@
         background-image: url(data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAIBAQEBAQIBAQECAgICAgQDAgICAgUEBAMEBgUGBgYFBgYGBwkIBgcJBwYGCAsICQoKCgoKBggLDAsKDAkKCgr/2wBDAQICAgICAgUDAwUKBwYHCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgr/wgARCAADAAUDAREAAhEBAxEB/8QAFAABAAAAAAAAAAAAAAAAAAAACf/EABUBAQEAAAAAAAAAAAAAAAAAAAMG/9oADAMBAAIQAxAAAAA7Bsf/xAAhEAACAgECBwAAAAAAAAAAAAABAgMFBAYSAAcIERMhMf/aAAgBAQABPwDp1q6XXfLnyavoK2wetznw8OXIroS6QKkZVN23uwBY/ST74//EABwRAAEEAwEAAAAAAAAAAAAAAAECAyExAAQFEv/aAAgBAgEBPwDrdDcd1WCpVehAAgGKvP/EAB4RAAIBAwUAAAAAAAAAAAAAAAERAwIFIQAEBiKB/9oACAEDAQE/AOBWu3xSbxRgs0HPbJpym15r/9k=);
         background-size: cover;
         background-position: 70% center;
+        background-color: #2d3646;
       }
 
       /* utility classes */
@@ -127,7 +128,6 @@
       }
       .bg-flickr {
         background-color: #ff0084;
-        /* background-color: #0063dc; */
       }
       .bg-github {
         background-color: #4078c0;
@@ -184,6 +184,12 @@
         background-color: #ed1c24;
       }
     </style>
+    <script>
+    function showInfo(label, data) {
+      prompt(label, data);
+      return false;
+    }
+    </script>
   </head>
   <body>
     <div class="container">
@@ -211,7 +217,7 @@
       <a class="item big-item bg-xbox" href="https://account.xbox.com/en-us/Profile?GamerTag=Oxguy3" title="Xbox">
         <i class="fab fa-xbox"></i>
       </a>
-      <a class="item big-item bg-discord" href="javascript:alert('oxguy3#0732')" title="Discord">
+      <a class="item big-item bg-discord" href="javascript:showInfo('Discord username:','oxguy3#0732')" title="Discord">
         <i class="fab fa-discord"></i>
       </a>
       <a class="item big-item bg-github" href="https://github.com/oxguy3" title="GitHub">
@@ -253,7 +259,7 @@
       <a class="item big-item bg-paypal" href="https://www.paypal.me/haydenschiff" title="PayPal">
         <i class="fab fa-paypal"></i>
       </a>
-      <a class="item big-item bg-bitcoin" href="javascript:alert('1AcnJWXSqZz3uKsweGuzHiimksTJyas177')" title="Bitcoin address">
+      <a class="item big-item bg-bitcoin" href="javascript:showInfo('Bitcoin wallet address:', '1AcnJWXSqZz3uKsweGuzHiimksTJyas177')" title="Bitcoin address">
         <i class="fab fa-bitcoin"></i>
       </a>
       <a class="item big-item bg-keybase" href="https://keybase.io/oxguy3" title="Keybase">
@@ -262,6 +268,21 @@
       <a class="item big-item" href="mailto:haydenschiff@gmail.com" title="Email">
         <i class="fas fa-envelope"></i>
       </a>
+      <!-- hack to make the bottom row left aligned -->
+      <span class="item big-item big-item-spacer"></span>
+      <span class="item big-item big-item-spacer"></span>
+      <span class="item big-item big-item-spacer"></span>
+      <span class="item big-item big-item-spacer"></span>
+      <span class="item big-item big-item-spacer"></span>
+      <span class="item big-item big-item-spacer"></span>
+      <span class="item big-item big-item-spacer"></span>
+      <span class="item big-item big-item-spacer"></span>
+      <span class="item big-item big-item-spacer"></span>
+      <span class="item big-item big-item-spacer"></span>
+      <span class="item big-item big-item-spacer"></span>
+      <span class="item big-item big-item-spacer"></span>
+      <span class="item big-item big-item-spacer"></span>
+      <span class="item big-item big-item-spacer"></span>
       <span class="item big-item big-item-spacer"></span>
       <span class="item big-item big-item-spacer"></span>
       <span class="item big-item big-item-spacer"></span>
